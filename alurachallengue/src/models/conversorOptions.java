@@ -1,28 +1,25 @@
 package models;
 
+import java.math.BigDecimal;
+
 public enum conversorOptions {
-    USD_ARS("Dólares-Pesos"),
-    ARS_USD("Pesos-Dólares"),
-    USD_BOB("Dólares-Bolivianos"),
-    BOB_USD("Bolivianos-Dólares"),
-    USD_BRL("Dólares-Reales"),
-    BRL_USD("Reales-Dólares"),
-    USD_CLP("Dólares-Pesos Chilenos"),
-    CLP_USD("Pesos Chilenos-Dólares"),
-    USD_COP("Dólares-Pesos Colombianos"),
-    COP_USD("Pesos Colombianos-Dólares"),
-    USD_PYG("Dólares-Guaraníes"),
-    PYG_USD("Guaraníes-Dólares"),
-    USD_PEN("Dólares-Soles"),
-    PEN_USD("Soles-Dólares"),
-    USD_UYU("Dólares-Pesos Uruguayos"),
-    UYU_USD("Pesos Uruguayos-Dólares");
+    USD("Dólares",new BigDecimal(1)),
+    ARS("Pesos Argentinos", new BigDecimal(1)),
+    BOB("Bolivianos", new BigDecimal(1)),
+    BRL("Reales", new BigDecimal(1)),
+    CLP("", new BigDecimal(1)),
+    COP("Reales-Dólares", new BigDecimal(1)),
+    PYG("Dólares-Pesos Chilenos", new BigDecimal(1)),
+    PEN("Pesos Chilenos-Dólares", new BigDecimal(1)),
+    UYU("Dólares-Pesos Colombianos", new BigDecimal(1));
 
 
 
     private String description;
-    conversorOptions(String description){
+    private BigDecimal value;
+    conversorOptions(String description, BigDecimal value){
         this.description=description;
+        this.value=value;
     }
     public String getDescription() {
         return description;

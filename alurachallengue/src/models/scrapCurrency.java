@@ -8,10 +8,14 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 
+import static java.lang.Double.parseDouble;
+
 
 public class scrapCurrency {
-    public static Map<String, BigDecimal> sellRate=new HashMap<>();
+    private static Map<String, BigDecimal> rateMap=new HashMap<>();
+    private static String[] currencies={"Pesos Argentinos","Bolivianos","Reales","Pesos Chilenos","Pesos Colombianos","Guaranis","Soles","Pesos Uruguayos","Bolivares"};
     static int c=0;
+    static int j=0;
     public static void main(String[] args) throws IOException {
         Document doc=Jsoup.connect("https://www.dollarfx.org/South-America").timeout(10000).get();
         Element soup=doc.select("div.cross-rates-body").first();
@@ -19,13 +23,13 @@ public class scrapCurrency {
         for(Element i:exchange){
             if(!i.ownText().isEmpty()){
                 if (c%2==0){
-                    sellRate.add(i.ownText());
+                    scrapCurrency.rateMap.put(currencies[j],new BigDecimal(parseDouble(i.ownText().replace(",",""))));
+                    j++;
                 }
+
                 c++;
             }
         }
-        System.out.println(sellRate);
-
     }
 }
 
