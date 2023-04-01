@@ -3,13 +3,6 @@ import org.jsoup.*;
 import org.jsoup.nodes.*;
 import org.jsoup.select.*;
 import java.io.IOException;
-import java.math.BigDecimal;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.Map;
-
-
 
 public class scrapCurrency {
     public static String[][] currenciesRates=new String[2][8];
@@ -29,13 +22,11 @@ public class scrapCurrency {
                     System.out.println(rates[j]);
                     j++;
                 }
-
                 c++;
             }
         }
         currenciesRates[0]= currencies;
         currenciesRates[1]= rates;
-        System.out.println(currenciesRates[1][0]);
     }
 }
 

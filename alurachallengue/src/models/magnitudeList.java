@@ -1,8 +1,5 @@
 package models;
 
-import java.math.BigDecimal;
-import java.util.ArrayList;
-import java.util.HashMap;
 
 public class magnitudeList {
     public String [][] longitud={{"Kilometros","Yardas","Millas"},{"1000","0.9144","1609.34"}},

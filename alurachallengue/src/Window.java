@@ -3,7 +3,6 @@ import view.*;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
-import java.util.ArrayList;
 
 class Window extends JFrame implements ActionListener{
     static JFrame f;
