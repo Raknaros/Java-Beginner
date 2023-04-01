@@ -1,5 +1,7 @@
 package view;
 
+import models.scrapCurrency;
+
 import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -11,10 +13,11 @@ public class dialogCurrency extends JDialog{
         setTitle("Monedas");
         JLabel titulo=new JLabel("Quiero convertir...");
         JTextField input=new JTextField("cantidad",JTextField.CENTER);
-        String lmags[]={"Kilómetros","Millas","Centrígrados","Fahrenheit","Horas"};
-        JComboBox combo1=new JComboBox(lmags);
+        JComboBox combo1=new JComboBox();
+        scrapCurrency lista=new scrapCurrency();
+        combo1.setModel();
         JLabel conector=new JLabel("a");
-        JComboBox combo2=new JComboBox(lmags);
+        JComboBox combo2=new JComboBox();
         JButton convertir=new JButton("Convertir");
         JLabel salida=new JLabel("",SwingConstants.CENTER);
         convertir.addActionListener(new ActionListener() {
