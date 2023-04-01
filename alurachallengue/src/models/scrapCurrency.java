@@ -9,11 +9,10 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
-import static java.lang.Double.parseDouble;
 
 
 public class scrapCurrency {
-    public static String[][] currenciesRates=new String[1][8];
+    public static String[][] currenciesRates=new String[2][8];
     public static String[] currencies={"Pesos Argentinos","Bolivianos","Reales","Pesos Chilenos","Pesos Colombianos","Guaranis","Soles","Pesos Uruguayos","Bolivares"};
     public static String[] rates=new String[9];
     static int c=0;
@@ -34,8 +33,9 @@ public class scrapCurrency {
                 c++;
             }
         }
-        currenciesRates[0]= new String[]{Arrays.toString(currencies)};
-        currenciesRates[1]= new String[]{Arrays.toString(rates)};
+        currenciesRates[0]= currencies;
+        currenciesRates[1]= rates;
+        System.out.println(currenciesRates[1][0]);
     }
 }
 
