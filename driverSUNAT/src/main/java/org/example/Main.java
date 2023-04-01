@@ -13,7 +13,7 @@ public class Main {
     static WebElement textBox1, textBox2,textBox3,submitButton,tempButton1,tempButton2,tempButton3,tempIframe1,tempIframe2,tempIframe3,tempDialog;
     static String oWindow,sWindow,tWindow;
     public static void main(String[] args) {
-        System.setProperty("webdriver.chrome.driver","D:\\chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver","/home/raknaros/code/chromedriver");//"D:\\chromedriver.exe"
         WebDriver driver=new ChromeDriver();
 
         oWindow=driver.getWindowHandle();
