@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="64267323-889f-41d8-877a-5c5db16abf2d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../alurachallengue/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alurachallengue/.idea/libraries/jsoup_1_15_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alurachallengue/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alurachallengue/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alurachallengue/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alurachallengue/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alurachallengue/ConversorAlura.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alurachallengue/out/production/ConversorAlura/Window.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alurachallengue/out/production/ConversorAlura/models/conversorOptions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alurachallengue/out/production/ConversorAlura/models/scrapCurrency.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alurachallengue/out/production/ConversorAlura/view/dialogCurrency$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alurachallengue/out/production/ConversorAlura/view/dialogCurrency.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alurachallengue/out/production/ConversorAlura/view/dialogMagnitude$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alurachallengue/out/production/ConversorAlura/view/dialogMagnitude.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alurachallengue/src/Window.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alurachallengue/src/models/conversorOptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alurachallengue/src/models/scrapCurrency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alurachallengue/src/view/dialogCurrency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alurachallengue/src/view/dialogMagnitude.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-heredado/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-heredado/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-heredado/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-heredado/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-heredado/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-heredado/bytebank.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-heredado/src/Administrador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-heredado/src/Autenticable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-heredado/src/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-heredado/src/ControlBonificacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-heredado/src/Cuenta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-heredado/src/CuentaAhorros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-heredado/src/CuentaCorriente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-heredado/src/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-heredado/src/Gerente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-heredado/src/SistemaInterno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-heredado/src/TestControlBonificacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-heredado/src/TestCuenta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-heredado/src/TestFuncionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-heredado/src/TestGerente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-heredado/src/TestReferencias.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-heredado/src/TestSistemaInterno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crawler/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crawler/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crawler/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crawler/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crawler/allure-results/0e0f9a3e-004e-47f7-aeaa-fee1a019e483-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crawler/allure-results/1801cee1-5484-46ba-ab68-f8e2720615de-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crawler/allure-results/1dcdcd61-0303-43de-8c89-75fdaa5eea34-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crawler/allure-results/1fb7ff0f-32b7-409e-8714-46f2caab6319-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crawler/allure-results/277b7fbb-8470-4267-8d86-7412d0f81f50-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crawler/allure-results/2dd0f64b-c290-4db9-8055-7482cdaf9e28-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crawler/allure-results/2dda0813-b682-4da7-bee2-c9a1a71c284a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crawler/allure-results/34f25c33-e5b0-4d99-bf9b-5350e81e0f5f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crawler/allure-results/37836e6f-7481-4071-bf5c-93e3ce344dd4-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crawler/allure-results/3df1ffed-a1ad-47c0-be66-f6e2d00a96c6-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crawler/allure-results/40a0d9fa-fbfd-49b2-86ba-ca09fd8768da-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crawler/allure-results/41676279-5959-448c-af9e-b524df2fc627-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crawler/allure-results/4773d83f-8457-4cca-a7f3-c14fe503de2f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crawler/allure-results/5b6765c5-2439-4f69-bb77-63424f2dc24f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crawler/allure-results/5c974f25-94b2-4bf4-8cc2-14f67765a9eb-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crawler/allure-results/5df1daee-a56d-4f7b-ba65-6f9cf11ef90b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crawler/allure-results/60dbc88d-52ac-4f24-abda-aa5e991d5c09-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crawler/allure-results/788f595f-19e3-446e-8264-2c9099a3d9bd-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crawler/allure-results/79f21770-d1a7-40e1-b744-c440bf592f75-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crawler/allure-results/7f9674e4-1294-4515-9edd-4d2b5fcf61ee-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crawler/allure-results/80874923-7e76-457d-ab3a-72d50a099c68-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crawler/allure-results/88207d90-be80-4355-a519-d85e11a8b08f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crawler/allure-results/8fbba9f6-c2c2-4acc-8cf8-4dae00b46ed8-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crawler/allure-results/9441d883-fc92-44da-8d74-354e2fc3dda4-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crawler/allure-results/9dfbbab8-2c7c-4daa-a7a1-638b569cc779-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crawler/allure-results/a487a07a-2f8b-4d37-8c94-35d48f50cac8-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crawler/allure-results/ad92b52e-077d-4328-91f9-3c4ab4a90575-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crawler/allure-results/b2cce987-ad99-41d7-8a19-25189970e48b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crawler/allure-results/bb0093dc-3df2-4a75-bd5f-888b6885478c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crawler/allure-results/c748dbf0-5651-4af3-a60d-a8bbe2d2bd3d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crawler/allure-results/d315f100-06ed-4fd6-9dc6-250f040ea582-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crawler/allure-results/d91e8722-9bb5-47d9-826f-358f21ff95f8-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crawler/allure-results/db5d6d84-879c-4348-8a34-480407201f45-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crawler/allure-results/dcf423ba-87d5-44e6-b440-7ab5fef705ea-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crawler/allure-results/dec02f63-76da-401c-a0d9-eabd7ccd340b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crawler/allure-results/edf8a27d-5efa-49fd-90fc-2db201cba697-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crawler/allure-results/faf8877a-1252-4da0-a4c8-016ae3b956f6-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crawler/src/test/java/com/example/crawler/MainPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crawler/src/test/java/crawler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../driverSUNAT/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-pila-ejecucion/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-pila-ejecucion/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-pila-ejecucion/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-pila-ejecucion/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-pila-ejecucion/java-pila-ejecucion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-pila-ejecucion/src/Flujo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-pila-ejecucion/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPractice/javaPractice/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPractice/javaPractice/src/main/java/coleciones/Ejemplo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPractice/javaPractice/src/main/java/coleciones/Ejemplo10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPractice/javaPractice/src/main/java/coleciones/Ejemplo11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPractice/javaPractice/src/main/java/coleciones/Ejemplo12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPractice/javaPractice/src/main/java/coleciones/Ejemplo13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPractice/javaPractice/src/main/java/coleciones/Ejemplo14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPractice/javaPractice/src/main/java/coleciones/Ejemplo15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPractice/javaPractice/src/main/java/coleciones/Ejemplo16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPractice/javaPractice/src/main/java/coleciones/Ejemplo17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPractice/javaPractice/src/main/java/coleciones/Ejemplo18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPractice/javaPractice/src/main/java/coleciones/Ejemplo19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPractice/javaPractice/src/main/java/coleciones/Ejemplo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPractice/javaPractice/src/main/java/coleciones/Ejemplo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPractice/javaPractice/src/main/java/coleciones/Ejemplo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPractice/javaPractice/src/main/java/coleciones/Ejemplo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPractice/javaPractice/src/main/java/coleciones/Ejemplo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPractice/javaPractice/src/main/java/coleciones/Ejemplo7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPractice/javaPractice/src/main/java/coleciones/Ejemplo8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPractice/javaPractice/src/main/java/coleciones/Ejemplo9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPractice/javaPractice/src/main/java/coleciones/modelo/Alumno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPractice/javaPractice/src/main/java/coleciones/modelo/Aula.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPractice/javaPractice/src/main/java/coleciones/modelo/Curso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPractice/javaPractice/src/main/java/mailVerifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPractice/javaPractice/src/main/java/operarFactorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPractice/javaPractice/src/main/java/org/array2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byteBank.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ESP-conversor-moneda-solucion-intermediaria/Convertidor-ESP.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/byteBank/Cliente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/byteBank/CrearCuenta.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/byteBank/Cuenta.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/byteBank/DataCharManipulation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/byteBank/DataTypes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/byteBank/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/byteBank/PruebaAcceso.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/byteBank/TestConditionals.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/byteBank/TestFor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/byteBank/TestForBreak.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/byteBank/TestMetodos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/byteBank/TestReferencia.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/byteBank/TestReferencia2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/byteBank/TestScopeWhile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cliente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CrearCuenta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cuenta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataCharManipulation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataTypes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PruebaAcceso.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestConditionals.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestFor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestForBreak.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestMetodos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestReferencia.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestReferencia2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestScopeWhile.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2LZ47X39vUv8fE4CZz46FMAD0Yd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Java/alurachallengue&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
+    ]
+  }
+}</component>
+  <component name="RunManager" selected="Application.Window">
+    <configuration name="Window" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Window" />
+      <module name="ConversorAlura" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="scrapCurrency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="models.scrapCurrency" />
+      <module name="ConversorAlura" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Window" />
+        <item itemvalue="Application.scrapCurrency" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64267323-889f-41d8-877a-5c5db16abf2d" name="Changes" comment="" />
+      <created>1676065147398</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676065147398</updated>
+      <workItem from="1676065147451" duration="204000" />
+      <workItem from="1677854024558" duration="6161000" />
+      <workItem from="1677901394366" duration="2330000" />
+      <workItem from="1677949276121" duration="3599000" />
+      <workItem from="1678032469769" duration="13601000" />
+      <workItem from="1678106959179" duration="4390000" />
+      <workItem from="1678558844079" duration="4801000" />
+      <workItem from="1678728164069" duration="10000" />
+      <workItem from="1678728214526" duration="6000" />
+      <workItem from="1679405836109" duration="20583000" />
+      <workItem from="1679494645136" duration="7570000" />
+      <workItem from="1679635092511" duration="1874000" />
+      <workItem from="1679674674465" duration="155000" />
+      <workItem from="1679700286824" duration="19568000" />
+      <workItem from="1679807799410" duration="2694000" />
+      <workItem from="1680151772597" duration="11000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
